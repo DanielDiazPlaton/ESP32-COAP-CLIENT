@@ -1,0 +1,4 @@
+dependencies:
+  espressif/coap: "^4.3.0"
+  espressif/mdns: "^1.0.3"
+  espressif/led_strip: "^2.0.0"
